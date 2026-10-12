@@ -150,6 +150,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation | CVPR'26 | [link](https://arxiv.org/html/2603.05921v1) | [code](https://github.com/Ferry-Li/BlackMirror) |
 | 2026.03 | A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models | TIFS'26 | [link](https://ieeexplore.ieee.org/document/11442803) | - |
 | 2026.04 | Scaling Exposes the Trigger: Input-Level Backdoor Detection in Text-to-Image Diffusion Models via Cross-Attention Scaling | arXiv | [link](https://arxiv.org/pdf/2604.12446) | - |
+| 2026.09 | TokenScanner: Detecting Backdoors and Discovering Triggers in Text-to-Image LoRAs via Full Vocabulary Scanning | arXiv | [link](https://arxiv.org/abs/2609.31878) | - |
+| 2026.09 | Learning Normal Diffusion Dynamics for Backdoor Defense in Text-to-Image Models | arXiv | [link](https://arxiv.org/abs/2609.39548) | - |
 
 ### Large Vision Language Models
 
